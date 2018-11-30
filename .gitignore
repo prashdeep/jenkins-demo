@@ -1,1 +1,3 @@
-*.agdai
+target/
+.idea/
+javademo.iml
